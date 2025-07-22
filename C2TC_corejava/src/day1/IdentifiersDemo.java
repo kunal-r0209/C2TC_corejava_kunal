@@ -6,7 +6,7 @@ public class IdentifiersDemo {
 		int $number = 20; 
 		System.out.println("value of the number variable is : "+ $number);
 	
-		String studentName="Ramya"; 
+		String studentName="Kunal"; 
 		System.out.println("value is : "+ studentName);
 		
 	
