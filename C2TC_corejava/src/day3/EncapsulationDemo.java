@@ -1,6 +1,6 @@
 package day3;
 
-import Assignment2.OopsConceptDemo;
+import Day3.OopsConceptDemo;
 
 public class EncapsulationDemo {
 
